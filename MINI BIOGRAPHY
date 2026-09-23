@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Biography</title>
+
+</head>
+<body>
+    
+    <h1><i>👦🏻BIOGRAPHY ABOUT ME</i></h1>
+
+    <p>My name is <b>Ayman Suhail</b>, I study in grade 8. I am a student at IES school, I like to play football and watch TV.I love coding or anything that involves computers.<mark>My goal is to become a pilot</mark>.I have a wish to make an actual website before 2026 ends.</p>
+
+    <h2>WHAT DOES AYMAN LIKE❓</h2>
+
+    <ul>
+        <li>⚽Football</li>
+        <li>📺TV</li>
+        <li>🟰Coding</li>
+        <li>💻Computers</li>
+        <li>🚗Cars</li>
+        <li>🛏️Bed</li>
+        <li>🍟snacks</li>
+        <li>🎶Song</li>
+    </ul>
+
+        <h3><del>WHAT DOES AYMAN DONT LIKE❓</del></h3>
+
+        <ul>
+            <li>🥵Hot weather</li>
+            <li>☀️WAKING UP IN THE MORNING</li>
+         </ul>
+            
+</body>
+</html>
+  
